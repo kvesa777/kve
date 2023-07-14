@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+
+}
+div:hover{
+
+    transform: rotate(10deg);
+    transition: 4s;
+    margin-left: 500px;
+    margin-top: 500px;
+}
+img{
+      height: 200px;
+    width: 200px;  
+}
